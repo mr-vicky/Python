@@ -33,3 +33,33 @@ print(a.__sizeof__())
 # Note -> You can represent the value of a variable in a scientific notation also 
 decimal = 1925E-2
 print(decimal)
+
+# bool data type -->
+a = True
+print(a)
+b = False
+print(b)
+print(int(b)) 
+
+# We can use underscore '_' for seperating the digits to make them redable just like 1,22,000 we do using ',' -->
+z = 1_22_000
+print(z)
+
+# Strings in the python can be defined in ' ', " ", ''' ''' any of these -->
+u = 'mr_vicky'
+v = "mr_Vicky"
+w = '''mr_vicky'''
+print(u, v, w)
+
+# INPUT in python is sotred in string -->
+# price = input("Enter the price: ")
+# print(price)
+
+# Base Conversion -->
+a = 10
+b = 16
+c = 10010101
+
+print(hex(a))
+print(bin(b))
+print(oct(c))
