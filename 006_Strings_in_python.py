@@ -14,10 +14,10 @@
 # print("Vivek's Job")
 
 # """ """ is used to store the strings in multiple lines
-# print("""
-#       V
-#          i
-#       v
-#          e
-#       k
-#       """)    
+print("""
+      V
+         i
+      v
+         e
+      k
+      """)    
