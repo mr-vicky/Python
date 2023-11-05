@@ -10,4 +10,3 @@ for i in range(len(a)):
     res.append((s))
 
 print(res)
-
