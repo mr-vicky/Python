@@ -3,7 +3,6 @@ Dict1 = dict({"apple": "red",
               "orange": "orange" 
               })
 
-
 # copy() ->
 Dict2 = Dict1.copy() # This will create a shallow copy of Dict1 and store that in Dict2
 print(Dict1)
