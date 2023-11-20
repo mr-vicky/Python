@@ -1,0 +1,3 @@
+This is a text file.
+This file is stored on the HDD.
+files are accessed by their names.
