@@ -1,0 +1,2 @@
+-write mode")
+# file.close()
